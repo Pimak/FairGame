@@ -141,8 +141,4 @@ public class State {
         return heads + " - " + (throwCount - heads);
     }
 
-    public static void main(String[] args) {
-        System.out.println(State.getInstance(24,36).getCheatingKnowingThis());
-    }
-
 }
