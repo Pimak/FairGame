@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="01712481-7b0d-4e78-afd4-4efa502a80d2" name="Changes" comment="Git init" />
+    <list default="true" id="01712481-7b0d-4e78-afd4-4efa502a80d2" name="Changes" comment="Useless print removed" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -105,6 +105,7 @@
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -204,7 +205,7 @@
       <updated>1649526175476</updated>
       <workItem from="1649526177794" duration="10664000" />
       <workItem from="1649585482616" duration="2428000" />
-      <workItem from="1649702693711" duration="8483000" />
+      <workItem from="1649702693711" duration="9308000" />
     </task>
     <task id="LOCAL-00001" summary="Git init">
       <created>1649881002371</created>
@@ -213,7 +214,14 @@
       <option name="project" value="LOCAL" />
       <updated>1649881002371</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Useless print removed">
+      <created>1649881371176</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1649881371176</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -232,6 +240,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Git init" />
-    <option name="LAST_COMMIT_MESSAGE" value="Git init" />
+    <MESSAGE value="Useless print removed" />
+    <option name="LAST_COMMIT_MESSAGE" value="Useless print removed" />
   </component>
 </project>
